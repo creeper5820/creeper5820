@@ -10,5 +10,3 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,docker,qt,opencv,ros,linux,java,python,ps&perline=5" />
   </a>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
