@@ -5,7 +5,7 @@
 
 这是我的主要技术栈：
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,docker,qt,opencv,ros,linux,java,python,ps&perline=5" />
   </a>
