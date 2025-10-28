@@ -10,3 +10,5 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,java,rust,docker,qt,opencv,ros,linux,java,python,ps&perline=6" />
   </a>
 </p>
+
+爱发电：[afdian/creeper5820](https://afdian.com/a/creeper5820?tab=feed)
