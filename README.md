@@ -16,7 +16,7 @@
 
 ## 🚀 代表项目
 
-<div style="display: flex; justify-content: start; gap: 16px; flex-wrap: wrap;">
+<div align="left">
   <a href="https://github.com/creeper5820/creeper-qt" target="_blank" style="flex: 1 1 320px; max-width: 420px;">
     <picture>
       <source
