@@ -34,23 +34,6 @@
       />
     </picture>
   </a>
-  <a href="https://github.com/Alliance-Algorithm/RMCS" target="_blank" style="flex: 1 1 320px; max-width: 420px;">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Alliance-Algorithm&repo=RMCS&theme=tokyonight&border_radius=12&hide_border=true"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Alliance-Algorithm&repo=RMCS&theme=default&border_radius=12&hide_border=true"
-      />
-      <img
-        alt="RMCS repository highlight card"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Alliance-Algorithm&repo=RMCS&theme=default&border_radius=12&hide_border=true"
-        style="width: 100%; height: 165px;"
-      />
-    </picture>
-  </a>
 </div>
 
 ## 🎨 创作与设计
