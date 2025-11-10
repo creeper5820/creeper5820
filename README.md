@@ -18,10 +18,20 @@
 
 <p align="center">
   <a href="https://github.com/creeper5820/creeper-qt" target="_blank">
-    <img
-      alt="creeper-qt"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=creeper5820&repo=creeper-qt&theme=tokyonight&border_radius=12&hide_border=true"
-    />
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=creeper5820&repo=creeper-qt&theme=tokyonight&border_radius=12&hide_border=true"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=creeper5820&repo=creeper-qt&theme=default&border_radius=12&hide_border=true"
+      />
+      <img
+        alt="creeper-qt repository highlight card"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=creeper5820&repo=creeper-qt&theme=default&border_radius=12&hide_border=true"
+      />
+    </picture>
   </a>
 </p>
 
