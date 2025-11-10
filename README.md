@@ -16,7 +16,7 @@
 
 ## 🚀 代表项目
 
-<div align="left">
+<p align="left">
   <a href="https://github.com/creeper5820/creeper-qt" target="_blank" style="flex: 1 1 320px; max-width: 420px;">
     <picture>
       <source
@@ -34,7 +34,7 @@
       />
     </picture>
   </a>
-</div>
+</p>
 
 ## 🎨 创作与设计
 - 插画创作（RoboMaster 主题、日系）。
