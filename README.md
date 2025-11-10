@@ -16,46 +16,42 @@
 
 ## 🚀 代表项目
 
-<p align="center">
-  <span style="display: inline-block; margin: 8px;">
-    <a href="https://github.com/creeper5820/creeper-qt" target="_blank">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats.vercel.app/api/pin/?username=creeper5820&repo=creeper-qt&theme=tokyonight&border_radius=12&hide_border=true"
-        />
-        <source
-          media="(prefers-color-scheme: light)"
-          srcset="https://github-readme-stats.vercel.app/api/pin/?username=creeper5820&repo=creeper-qt&theme=default&border_radius=12&hide_border=true"
-        />
-        <img
-          alt="creeper-qt repository highlight card"
-          src="https://github-readme-stats.vercel.app/api/pin/?username=creeper5820&repo=creeper-qt&theme=default&border_radius=12&hide_border=true"
-          width="420"
-        />
-      </picture>
-    </a>
-  </span>
-  <span style="display: inline-block; margin: 8px;">
-    <a href="https://github.com/Alliance-Algorithm/RMCS" target="_blank">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats.vercel.app/api/pin/?username=Alliance-Algorithm&repo=RMCS&theme=tokyonight&border_radius=12&hide_border=true"
-        />
-        <source
-          media="(prefers-color-scheme: light)"
-          srcset="https://github-readme-stats.vercel.app/api/pin/?username=Alliance-Algorithm&repo=RMCS&theme=default&border_radius=12&hide_border=true"
-        />
-        <img
-          alt="RMCS repository highlight card"
-          src="https://github-readme-stats.vercel.app/api/pin/?username=Alliance-Algorithm&repo=RMCS&theme=default&border_radius=12&hide_border=true"
-          width="420"
-        />
-      </picture>
-    </a>
-  </span>
-</p>
+<div style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;">
+  <a href="https://github.com/creeper5820/creeper-qt" target="_blank" style="flex: 1 1 320px; max-width: 420px;">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=creeper5820&repo=creeper-qt&theme=tokyonight&border_radius=12&hide_border=true"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=creeper5820&repo=creeper-qt&theme=default&border_radius=12&hide_border=true"
+      />
+      <img
+        alt="creeper-qt repository highlight card"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=creeper5820&repo=creeper-qt&theme=default&border_radius=12&hide_border=true"
+        style="width: 100%; height: 165px;"
+      />
+    </picture>
+  </a>
+  <a href="https://github.com/Alliance-Algorithm/RMCS" target="_blank" style="flex: 1 1 320px; max-width: 420px;">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Alliance-Algorithm&repo=RMCS&theme=tokyonight&border_radius=12&hide_border=true"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Alliance-Algorithm&repo=RMCS&theme=default&border_radius=12&hide_border=true"
+      />
+      <img
+        alt="RMCS repository highlight card"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Alliance-Algorithm&repo=RMCS&theme=default&border_radius=12&hide_border=true"
+        style="width: 100%; height: 165px;"
+      />
+    </picture>
+  </a>
+</div>
 
 ## 🎨 创作与设计
 - 插画创作（RoboMaster 主题、日系）。
