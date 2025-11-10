@@ -1,14 +1,33 @@
-# CREEPER5820'S </br>WORKSPACE
-这里是 **creeper5820** 的仓库，欢迎参观！
+# Creeper5820's Workspace
 
-至2026年，我是南京理工大学的一名本科生，致力于本校的**RoboMaster**战队，主要负责哨兵机器人的定位建图，以及其他和cpp相关的技术栈。除此之外，我也是一名画师，偶尔会产出一些和**RoboMaster**相关的插画图，当然，题材以传统日系少女为主，也会做一些**平面设计**，像是海报，周边设计等。
+> 欢迎来到我的 `WorkStation`，一起探索机器人、图形与创意的交叉点。
 
-这是我的主要技术栈：
+## 👤 关于我 / About Me
+- 2026 年就读于南京理工大学，本科方向聚焦于机器人与智能系统。
+- 深度参与校内 **RoboMaster** 战队，负责哨兵机器人的定位建图与 C++ 技术栈建设。
+- 同时也是一名插画师与平面设计师，热衷创作 RoboMaster 主题插画与日系少女风作品。
 
+## 🛠️ 技术栈
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,java,rust,docker,qt,opencv,ros,linux,java,python,ps&perline=6" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,java,rust,docker,qt,opencv,ros,linux,python,ps&perline=6" />
   </a>
 </p>
 
-爱发电：[afdian/creeper5820](https://afdian.com/a/creeper5820?tab=feed)
+## 🚀 代表项目
+
+<p align="center">
+  <a href="https://github.com/creeper5820/creeper-qt" target="_blank">
+    <img
+      alt="creeper-qt"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=creeper5820&repo=creeper-qt&theme=tokyonight&border_radius=12&hide_border=true"
+    />
+  </a>
+</p>
+
+## 🎨 创作与设计
+- 插画创作（RoboMaster 主题、日系）。
+- 海报、周边等平面设计物料。
+
+## ☕ 支持我
+- 爱发电：[afdian/creeper5820](https://afdian.com/a/creeper5820?tab=feed)
