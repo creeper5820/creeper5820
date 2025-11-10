@@ -30,7 +30,6 @@
       <img
         alt="creeper-qt repository highlight card"
         src="https://github-readme-stats.vercel.app/api/pin/?username=creeper5820&repo=creeper-qt&theme=default&border_radius=12&hide_border=true"
-        style="width: 100%; height: 165px;"
       />
     </picture>
   </a>
