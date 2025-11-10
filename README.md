@@ -17,7 +17,7 @@
 ## 🚀 代表项目
 
 <p align="center">
-  <a href="https://github.com/creeper5820/creeper-qt" target="_blank">
+  <a href="https://github.com/creeper5820/creeper-qt" target="_blank" style="margin: 0 6px;">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -30,6 +30,22 @@
       <img
         alt="creeper-qt repository highlight card"
         src="https://github-readme-stats.vercel.app/api/pin/?username=creeper5820&repo=creeper-qt&theme=default&border_radius=12&hide_border=true"
+      />
+    </picture>
+  </a>
+  <a href="https://github.com/Alliance-Algorithm/RMCS" target="_blank" style="margin: 0 6px;">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Alliance-Algorithm&repo=RMCS&theme=tokyonight&border_radius=12&hide_border=true"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Alliance-Algorithm&repo=RMCS&theme=default&border_radius=12&hide_border=true"
+      />
+      <img
+        alt="RMCS repository highlight card"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Alliance-Algorithm&repo=RMCS&theme=default&border_radius=12&hide_border=true"
       />
     </picture>
   </a>
